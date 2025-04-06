@@ -1,4 +1,4 @@
-{
+
   "updates": {
     "AZ94-WB70": {
       "update_key": "PKG-UPDATE-AZ94-WB72-AC",
@@ -14,13 +14,13 @@
       "update_date": "2025-04-06",
       "update_description": "Bug fixes, performance improvements, and minor feature updates."
     },
-    "AZ94-WB84": {
-      "update_key": "PKG-UPDATE-AZ94-WB84-AC",
+    "AZ94-WB82": {
+      "update_key": "PKG-UPDATE-AZ94-WB83-AC",
       "version": "V1.0.0",
       "project": "AC",
       "update_date": "2025-04-06",
       "update_description": "New feature addition, improved UI, and better user experience."
     }
   },
-  "latest_update_id": "AZ94-WB84"
+  "latest_update_id": "AZ94-WB83"
 }
