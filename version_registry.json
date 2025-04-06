@@ -15,18 +15,11 @@
       "update_description": "Bug fixes, performance improvements, and minor feature updates."
     },
     "AZ94-WB82": {
-      "update_key": "PKG-UPDATE-AZ94-WB82-AC",
-      "version": "V1.0.0",
-      "project": "AC",
-      "update_date": "2025-04-06",
-      "update_description": "New feature addition, improved UI, and better user experience."
-    },
-    "AZ94-WB83": {
       "update_key": "PKG-UPDATE-AZ94-WB83-AC",
       "version": "V1.0.0",
       "project": "AC",
       "update_date": "2025-04-06",
-      "update_description": "Test auto update"
+      "update_description": "New feature addition, improved UI, and better user experience."
     }
   },
   "latest_update_id": "AZ94-WB83"
